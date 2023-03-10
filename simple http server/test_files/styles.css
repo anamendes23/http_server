@@ -1,0 +1,13 @@
+body {
+    font-family: monospace;
+    color: darkolivegreen;
+}
+
+.fancy {
+    font-family: serif;
+    color: blue;
+}
+
+#dyn {
+    color: red;
+}
